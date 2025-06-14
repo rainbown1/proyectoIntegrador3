@@ -35,7 +35,7 @@ public class Escritorio extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        principal.setBackground(new java.awt.Color(186, 224, 186));
+        principal.setBackground(new java.awt.Color(204, 204, 255));
 
         javax.swing.GroupLayout principalLayout = new javax.swing.GroupLayout(principal);
         principal.setLayout(principalLayout);
