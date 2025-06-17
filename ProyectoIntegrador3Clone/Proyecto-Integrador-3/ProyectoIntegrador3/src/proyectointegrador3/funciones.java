@@ -277,7 +277,7 @@ public class funciones extends javax.swing.JInternalFrame {
 
         jTabbedPane1.addTab("Almacen", jPanel3);
 
-        jPanel6.setBackground(new java.awt.Color(204, 204, 204));
+        jPanel6.setBackground(new java.awt.Color(204, 204, 255));
 
         jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons8-usuario-96.png"))); // NOI18N
         jLabel10.setText("jLabel10");
